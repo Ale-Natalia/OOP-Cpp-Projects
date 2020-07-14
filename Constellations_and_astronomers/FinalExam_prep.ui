@@ -1,0 +1,28 @@
+<UI version="4.0" >
+ <class>FinalExam_prepClass</class>
+ <widget class="QMainWindow" name="FinalExam_prepClass" >
+  <property name="objectName" >
+   <string notr="true">FinalExam_prepClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>FinalExam_prep</string>
+  </property>  <widget class="QMenuBar" name="menuBar" />
+  <widget class="QToolBar" name="mainToolBar" />
+  <widget class="QWidget" name="centralWidget" />
+  <widget class="QStatusBar" name="statusBar" />
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="FinalExam_prep.qrc"/>
+ </resources>
+ <connections/>
+</UI>

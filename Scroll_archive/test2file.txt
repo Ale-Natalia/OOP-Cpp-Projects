@@ -1,0 +1,5 @@
+Storm Barrier | elder, hex, elemental | Defensive elemental shield with increased radius
+Thunder Light | hex, elemental | Natural attack weapon
+Dagger | silver, elder | High XP wound weapon
+Dragon Blood | liquid, dark red | Healing abilities
+Knife | old | Basic weapon

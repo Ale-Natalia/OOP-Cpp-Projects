@@ -24,4 +24,3 @@
   - add new elements
   - search updated while typing
   - best matching result of search
-

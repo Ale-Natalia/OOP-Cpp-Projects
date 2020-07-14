@@ -17,7 +17,7 @@
     - can iterate through the tasks and save them to own list
     
  * Inheritance and polymorphism
-  - a collection of short OOP projects highlighting the use of inheritance and polymorphism in C++
+    - a collection of short OOP projects highlighting the use of inheritance and polymorphism in C++
   
 * Scroll archive
   - a C++ application with a Qt GUI that allows users to perform different operations on a collection of scrolls
